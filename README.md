@@ -1,4 +1,4 @@
-![logo](https://github.com/Amanshergill1/Amanshergill1/blob/main/WhatsApp%20Image%202025-07-23%20at%2019.07.25_4fdc31a6.jpg)
+![logo](https://github.com/Amanshergill1/Amanshergill1/blob/main/github2.jpg)
 <h1 align="center">Hi 👋, I'm Amandeep Kaur</h1>
 <h3 align="center">A passionate fullstack Web developer from India</h3>
 
