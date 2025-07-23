@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Amanshergill1/Amanshergill1/blob/main/github2%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Amandeep Kaur</h1>
 <h3 align="center">A passionate fullstack Web developer from India</h3>
 
